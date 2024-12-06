@@ -1,0 +1,7 @@
+sweeper
+
+to get watsapp livechat https://dashboard.tawk.to/signup
+ADDING GRADIENT COLOR
+for styling use swiper-bundle.min.css
+for intractivity use swiper-bundle.min.js
+then go to demo to add sweeping effect.
